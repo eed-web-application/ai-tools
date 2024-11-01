@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66a955cf21a99b78a1178dc8"
+  },
+  "name": "EED-WEB-Developer",
+  "description": "EED web application developers",
+  "members": [
+    "bisegni@slac.stanford.edu",
+    "tiffany@slac.stanford.edu",
+    "boogie@slac.stanford.edu"
+  ],
+  "createdDate": {
+    "$date": "2024-07-30T21:06:23.216Z"
+  },
+  "createdBy": "bisegni@slac.stanford.edu",
+  "lastModifiedDate": {
+    "$date": "2024-09-09T23:52:24.445Z"
+  },
+  "lastModifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.LocalGroup"
+}]

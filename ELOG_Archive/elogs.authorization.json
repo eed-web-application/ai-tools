@@ -1,0 +1,1416 @@
+[{
+  "_id": {
+    "$oid": "6536f0b4fbf92e44a7675716"
+  },
+  "authorizationType": 2,
+  "resource": "*",
+  "owner": "bisegni@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2023-10-23T22:16:20.021Z"
+  },
+  "creationBy": "elog-plus",
+  "modificationDate": {
+    "$date": "2023-10-23T22:16:20.021Z"
+  },
+  "_class": "edu.stanford.slac.elog_plus.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "6536f0b4fbf92e44a7675717"
+  },
+  "authorizationType": 2,
+  "resource": "*",
+  "owner": "mgibbs@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2023-10-23T22:16:20.035Z"
+  },
+  "creationBy": "elog-plus",
+  "modificationDate": {
+    "$date": "2023-10-23T22:16:20.035Z"
+  },
+  "_class": "edu.stanford.slac.elog_plus.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "6536f0b4fbf92e44a7675718"
+  },
+  "authorizationType": 2,
+  "resource": "*",
+  "owner": "boogie@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2023-10-23T22:16:20.039Z"
+  },
+  "creationBy": "elog-plus",
+  "modificationDate": {
+    "$date": "2023-10-23T22:16:20.039Z"
+  },
+  "_class": "edu.stanford.slac.elog_plus.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66aac3d84c8e9c7eb982cf7d"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675720",
+  "owner": "bisegni@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-07-31T23:08:08.002Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-07-31T23:08:08.002Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66aac5ca4c8e9c7eb982cf7e"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675724",
+  "owner": "alr@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-07-31T23:16:26.415Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-07-31T23:16:26.415Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66aac6ee4c8e9c7eb982cf80"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571e",
+  "owner": "abh@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-07-31T23:21:18.507Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-07-31T23:21:18.507Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66aac71b4c8e9c7eb982cf81"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571e",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-07-31T23:22:03.958Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-07-31T23:22:03.958Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66aac71b4c8e9c7eb982cf82"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571e",
+  "owner": "abi@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-07-31T23:22:03.968Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-07-31T23:22:03.968Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad22a6023af70bd4112f9f"
+  },
+  "authorizationType": 2,
+  "resource": "*",
+  "owner": "66ad22a6023af70bd4112f9e",
+  "ownerType": "Token",
+  "creationDate": {
+    "$date": "2024-08-02T18:17:10.474Z"
+  },
+  "creationBy": "elog",
+  "modificationDate": {
+    "$date": "2024-08-02T18:17:10.474Z"
+  },
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad497bd36d1e0c0770d4e4"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571c",
+  "owner": "aah@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-02T21:02:51.472Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-02T21:02:51.472Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad50778df4da4a6ca7f6a9"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a7675743",
+  "owner": "66aa7c047554f028a93d5544",
+  "ownerType": "Token",
+  "creationDate": {
+    "$date": "2024-08-02T21:32:39.315Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-02T21:32:39.315Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad570b8df4da4a6ca7f6ae"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571c",
+  "owner": "aam@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-02T22:00:43.221Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-02T22:00:43.221Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad570b8df4da4a6ca7f6af"
+  },
+  "authorizationType": 2,
+  "resource": "/logbook/6536f0b5fbf92e44a767571b",
+  "owner": "aam@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-02T22:00:43.223Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-26T23:05:33.182Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad66fb5db4c9791dd6c3bf"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675724",
+  "owner": "66a955cf21a99b78a1178dc8",
+  "ownerType": "Group",
+  "creationDate": {
+    "$date": "2024-08-02T23:08:43.559Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-02T23:08:43.559Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ad67ef5db4c9791dd6c3c5"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675720",
+  "owner": "66a955cf21a99b78a1178dc8",
+  "ownerType": "Group",
+  "creationDate": {
+    "$date": "2024-08-02T23:12:47.825Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-02T23:12:47.825Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66aeb94c72f09d0287d4cc7f"
+  },
+  "authorizationType": 2,
+  "resource": "*",
+  "owner": "66aeb94c72f09d0287d4cc7e",
+  "ownerType": "Token",
+  "creationDate": {
+    "$date": "2024-08-03T23:12:12.483Z"
+  },
+  "creationBy": "elog",
+  "modificationDate": {
+    "$date": "2024-08-03T23:12:12.483Z"
+  },
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66b65ce0a9840d1dc754ac1a"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/66b65cc0a9840d1dc754ac19",
+  "owner": "66aa7c047554f028a93d5544",
+  "ownerType": "Token",
+  "creationDate": {
+    "$date": "2024-08-09T18:16:00.136Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-09T18:16:00.136Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66ba5187e274085bba4192b7"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/66b65cc0a9840d1dc754ac19",
+  "owner": "brobeck@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-12T18:16:39.521Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-12T18:16:39.521Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8e3ae274085bba4192ba"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "schuh@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:47:54.012Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:47:54.012Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8e4fe274085bba4192bb"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "lchris@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:48:15.410Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:48:15.410Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192bc"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "pmiller@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.198Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.198Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192bd"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "zoevh@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.237Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.237Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192be"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "stanek@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.240Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.240Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192bf"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "yshtalen@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.565Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.565Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192c0"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "jnelson@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.606Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.606Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192c1"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "mgibbs@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.641Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.641Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192c2"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "aandrews@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.643Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.643Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192c3"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "bripman@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.654Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.654Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8edbe274085bba4192c4"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "lazareva@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:50:35.699Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:50:35.699Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192c5"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "wirene@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.229Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.229Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192c6"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "mwgarske@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.240Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.240Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192c7"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "aausherm@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.271Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.271Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192c8"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "joshbrn@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.273Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.273Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192c9"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "hvs@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.291Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.291Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192ca"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "jwarren@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.588Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.588Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192cb"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "yas@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.590Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.590Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192cc"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "thduong2@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.591Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.591Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192cd"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "smarino@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.632Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.632Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192ce"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "aasaad@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.634Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.634Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192cf"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "calloway@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.845Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.845Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192d0"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "blanch@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.879Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.879Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192d1"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "abien@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.913Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.913Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192d2"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "cassidy@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.914Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.914Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192d3"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "dabisi@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.941Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.941Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb8f71e274085bba4192d4"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "charlery@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:53:05.977Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:53:05.977Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192d5"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "mdemario@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.528Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.528Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192d6"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "tdaligau@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.549Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.549Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192d7"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "jcotter@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.570Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.570Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192d8"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "scheung@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.574Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.574Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192d9"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "duran@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.598Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.598Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192da"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "mlans@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.874Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.874Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192db"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "lopardog@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.904Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.904Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192dc"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "hoover@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.913Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.913Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192dd"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "skhashay@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.928Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.928Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9041e274085bba4192de"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "haggart@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:33.934Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:33.934Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9042e274085bba4192df"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "reedrou@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:34.153Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:34.153Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9042e274085bba4192e0"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "jrafael1@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:34.186Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:34.186Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9042e274085bba4192e1"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "sommer@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:34.212Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:34.212Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9042e274085bba4192e2"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "schroder@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:34.244Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:34.244Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9042e274085bba4192e3"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "klubana@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:34.261Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:34.261Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bb9042e274085bba4192e4"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "aaditya@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-13T16:56:34.435Z"
+  },
+  "creationBy": "mgibbs@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-13T16:56:34.435Z"
+  },
+  "modifiedBy": "mgibbs@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66bd18df17cfdb780f31af45"
+  },
+  "authorizationType": 2,
+  "resource": "*",
+  "owner": "tiffany@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-14T20:51:43.719Z"
+  },
+  "creationBy": "elog",
+  "modificationDate": {
+    "$date": "2024-08-14T20:51:43.719Z"
+  },
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66c4fd1f5edf4029053efb3b"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/66b65cc0a9840d1dc754ac19",
+  "owner": "cassidy@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-20T20:31:27.282Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-20T20:31:27.282Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66c78200483b2c60eca0ed8f"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/66b65cc0a9840d1dc754ac19",
+  "owner": "tiffany@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-22T18:22:56.596Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-22T18:22:56.596Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66c78388483b2c60eca0ed90"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/66b65cc0a9840d1dc754ac19",
+  "owner": "zelazny@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-22T18:29:28.613Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-22T18:30:23.541Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66c78388483b2c60eca0ed91"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "zelazny@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-22T18:29:28.614Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-22T18:30:23.542Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66c783b4483b2c60eca0ed92"
+  },
+  "authorizationType": 1,
+  "resource": "/logbook/66b65cc0a9840d1dc754ac19",
+  "owner": "jingchen@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-22T18:30:12.563Z"
+  },
+  "creationBy": "bisegni@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-22T18:30:12.563Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66cd0a678fa07b08f28225af"
+  },
+  "authorizationType": 2,
+  "resource": "/logbook/6536f0b5fbf92e44a767571b",
+  "owner": "ada@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-08-26T23:06:15.913Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-08-26T23:06:21.076Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df7c73cab05f325bac6aaf"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571b",
+  "owner": "aah@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T22:53:39.833Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T22:53:39.833Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df7c9acab05f325bac6ab0"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "aah@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T22:54:18.681Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T22:54:18.681Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df7cb8cab05f325bac6ab1"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571e",
+  "owner": "aah@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T22:54:48.675Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T22:54:48.675Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df7d8ccab05f325bac6ab5"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571c",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T22:58:20.036Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T22:58:20.036Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df7d94cab05f325bac6ab6"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571d",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T22:58:28.311Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T22:58:28.311Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df7ebccab05f325bac6abc"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571f",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T23:03:24.261Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T23:03:24.261Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df8057cab05f325bac6ac1"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675720",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T23:10:15.957Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T23:10:15.957Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df805ccab05f325bac6ac2"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675721",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T23:10:20.004Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T23:10:20.004Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df806dcab05f325bac6ac3"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a7675722",
+  "owner": "aal@slac.stanford.edu",
+  "ownerType": "User",
+  "creationDate": {
+    "$date": "2024-09-09T23:10:37.345Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T23:10:37.345Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df82b7cab05f325bac6ac5"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571b",
+  "owner": "66aa7c047554f028a93d5544",
+  "ownerType": "Token",
+  "creationDate": {
+    "$date": "2024-09-09T23:20:23.690Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T23:20:23.690Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+},
+{
+  "_id": {
+    "$oid": "66df8a38cab05f325bac6ac6"
+  },
+  "authorizationType": 0,
+  "resource": "/logbook/6536f0b5fbf92e44a767571b",
+  "owner": "66a955cf21a99b78a1178dc8",
+  "ownerType": "Group",
+  "creationDate": {
+    "$date": "2024-09-09T23:52:24.599Z"
+  },
+  "creationBy": "boogie@slac.stanford.edu",
+  "modificationDate": {
+    "$date": "2024-09-09T23:52:24.599Z"
+  },
+  "modifiedBy": "boogie@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.Authorization"
+}]

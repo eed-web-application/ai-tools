@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "66aa7c047554f028a93d5544"
+  },
+  "name": "physics-elog-printer",
+  "expiration": {
+    "$date": "2099-12-31T00:00:00.000Z"
+  },
+  "email": "physics-elog-printer@elog.slac.app$",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJlbWFpbCI6InBoeXNpY3MtZWxvZy1wcmludGVyQGVsb2cuc2xhYy5hcHAkIiwiaWF0IjoxNzIyNDQ4OTAwLCJpc3MiOiJlbG9nIiwic3ViIjoicGh5c2ljcy1lbG9nLXByaW50ZXIiLCJleHAiOjQxMDIzNTg0MDB9.OPo4MY8rekhYDZax2YtCalrnwGioKjghubuv1V-l3IMS0mpQxuFmfbI_sorBx5OD-TjqBTxhFb_7ThWfdL3SsA",
+  "applicationManaged": false,
+  "createdDate": {
+    "$date": "2024-07-31T18:01:40.925Z"
+  },
+  "createdBy": "bisegni@slac.stanford.edu",
+  "modifiedDate": {
+    "$date": "2024-07-31T18:01:40.925Z"
+  },
+  "modifiedBy": "bisegni@slac.stanford.edu",
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.AuthenticationToken"
+},
+{
+  "_id": {
+    "$oid": "66ad22a6023af70bd4112f9e"
+  },
+  "name": "root-token-1",
+  "expiration": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  },
+  "email": "root-token-1@elog.slac.app$",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJlbWFpbCI6InJvb3QtdG9rZW4tMUBlbG9nLnNsYWMuYXBwJCIsImlhdCI6MTcyMjYyMjYzMCwiaXNzIjoiZWxvZyIsInN1YiI6InJvb3QtdG9rZW4tMSIsImV4cCI6MTczNTYwMzIwMH0.PY4_x2CVUq3jwNMGu0B2hQPWNeaA5lbaaGs9tS5ZNZmdRrvLejbDyv6O8_yAnZ0K5TxAzHMcVTwQl8nyXrKwfw",
+  "applicationManaged": true,
+  "createdDate": {
+    "$date": "2024-08-02T18:17:10.404Z"
+  },
+  "modifiedDate": {
+    "$date": "2024-08-02T18:17:10.404Z"
+  },
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.AuthenticationToken"
+},
+{
+  "_id": {
+    "$oid": "66aeb94c72f09d0287d4cc7e"
+  },
+  "name": "service@internal.cwm.slac.app$",
+  "expiration": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "email": "service@internal.cwm.slac.app$",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJlbWFpbCI6InNlcnZpY2VAaW50ZXJuYWwuY3dtLnNsYWMuYXBwJCIsImlhdCI6MTcyMjcyNjczMiwiaXNzIjoiZWxvZyIsInN1YiI6InNlcnZpY2VAaW50ZXJuYWwuY3dtLnNsYWMuYXBwJCIsImV4cCI6MTc1NDE3OTIwMH0.TCkHcNizarXcZwaiqWF5BXXanCa4tVB0mSWDRL0pBmBZY3F6w24cM5CK7zU70_S_sadAz-AgaY0RloC711mckw",
+  "applicationManaged": true,
+  "createdDate": {
+    "$date": "2024-08-03T23:12:12.411Z"
+  },
+  "modifiedDate": {
+    "$date": "2024-08-03T23:12:12.411Z"
+  },
+  "_class": "edu.stanford.slac.ad.eed.baselib.model.AuthenticationToken"
+}]
